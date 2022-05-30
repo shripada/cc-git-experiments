@@ -16,3 +16,7 @@ If we remove the .git folder, that means, git will no longer monitor our reposit
 ```
 rm -rf .git
 ```
+
+## git ignore
+
+We need to ensure, we add a .gitignore file at the top of our repository, which will contain specifications to avoid committing certain files we dont care. For example, some files created by Operating system, or some editor extensions.
