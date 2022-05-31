@@ -20,3 +20,5 @@ rm -rf .git
 ## git ignore
 
 We need to ensure, we add a .gitignore file at the top of our repository, which will contain specifications to avoid committing certain files we dont care. For example, some files created by Operating system, or some editor extensions.
+
+We can take help of [gitignore.io](https://www.toptal.com/developers/gitignore) app available in internet
