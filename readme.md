@@ -33,4 +33,4 @@ This command `git status` is a command, that will show you what files are change
 
 ## git remotes
 
-A remote in git, is nothing but a central bare repo possibly hosted by a git server provider such as github
+A remote in git, is nothing but a central bare repo possibly hosted by a git server provider such as github. We can communicate with github over https as well as ssh.
