@@ -30,3 +30,7 @@ We can take help of [gitignore.io](https://www.toptal.com/developers/gitignore) 
 ## git status
 
 This command `git status` is a command, that will show you what files are changed, what files are in untracked mode, and what files have been placed already in staging area.
+
+## git remotes
+
+A remote in git, is nothing but a central bare repo possibly hosted by a git server provider such as github
