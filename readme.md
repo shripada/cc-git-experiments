@@ -1,5 +1,7 @@
 # Git Experiments
 
+This is the readme of this project. We also will add information about git too here.
+
 ## git init
 
 This is a repository to learn the nuances of git version control system.
