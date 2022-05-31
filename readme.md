@@ -22,3 +22,7 @@ rm -rf .git
 We need to ensure, we add a .gitignore file at the top of our repository, which will contain specifications to avoid committing certain files we dont care. For example, some files created by Operating system, or some editor extensions.
 
 We can take help of [gitignore.io](https://www.toptal.com/developers/gitignore) app available in internet
+
+## git status
+
+This command `git status` is an important command, that will show you what files are changed, what files are in untracked mode, and what files have been placed already in staging area.
