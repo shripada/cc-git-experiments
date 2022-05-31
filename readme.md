@@ -1,5 +1,7 @@
 # Git Experiments
 
+In this document we will try to explain all the git commands.
+
 ## git init
 
 This is a repository to learn the nuances of git version control system.
