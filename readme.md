@@ -25,4 +25,4 @@ We can take help of [gitignore.io](https://www.toptal.com/developers/gitignore) 
 
 ## git status
 
-This command `git status` is an important command, that will show you what files are changed, what files are in untracked mode, and what files have been placed already in staging area.
+This command `git status` is a command, that will show you what files are changed, what files are in untracked mode, and what files have been placed already in staging area.
