@@ -15,6 +15,8 @@ git init
 
 If we remove the .git folder, that means, git will no longer monitor our repository. It will just turn out to be a folder.
 
+You can also create bare repositories that just act as a central repo. Bare repositories will not have any working tree in them. You can not directly work on a bare repository. You need to clone a bare repository into your favourite location and can work on that.
+
 ```
 rm -rf .git
 ```
